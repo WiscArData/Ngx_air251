@@ -1,0 +1,81 @@
+{
+    "baselines": [
+        {
+            "blob": "QlyKJbilfZ9CgplpuKH4qkKW2JW4pIRt",
+            "detector": "H4"
+        },
+        {
+            "blob": "QlyKJbmSsa5CgplpuZMnhUKW2JW5kjTb",
+            "detector": "H2"
+        },
+        {
+            "blob": "QlyKJblRFOFCgplpuVAeckKW2JW5Uumh",
+            "detector": "Ax"
+        },
+        {
+            "blob": "QlyKJbfPhPhCgplpt8qItkKW2JW3zgBC",
+            "detector": "L2"
+        },
+        {
+            "blob": "QlyKJQAAAABCgplpMVvm/0KW2JUAAAAA",
+            "detector": "L4"
+        }
+    ],
+    "commit": "ba6f96fd78811b86a51c7e4517778e801d64482e",
+    "encoding": "base64",
+    "format": ">ff",
+    "signals": [
+        {
+            "blob": "QbnNlT4xHohCCR0QPjCEdA==",
+            "detector": "H4",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": "QbnNlbmNojhCCR0QuYfdFg==",
+            "detector": "H2",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": "QbnNlbi9CHFCCR0QuLmA9w==",
+            "detector": "Ax",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": "QbnNlbfDog5CCR0Qt7k3VA==",
+            "detector": "L2",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": "QVPitDnqQHtBY+RSOeoKy0Fz5wU56J/eQYHyLTnr9pFBifQMOel/NUGR9ck565xgQZn3mTnp4f5BoftQOegjUUGqFSw56duNQbIOyDnqHh9Buc2VOen/oEHCXJA56grLQcpa1DntAwFB0lvAOejxeUHaXAs55tzmQeJfATnq8JNB6mByOemY+kHyYdk56XaeQfpj4DnnLoBCATNxOefnL0IFNeo55c5RQgkdEDno+aI=",
+            "detector": "L4",
+            "isotope": "Ar36"
+        }
+    ],
+    "sniffs": [
+        {
+            "blob": null,
+            "detector": "H4",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": null,
+            "detector": "H2",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": null,
+            "detector": "Ax",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": null,
+            "detector": "L2",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": null,
+            "detector": "L4",
+            "isotope": "Ar36"
+        }
+    ]
+}
