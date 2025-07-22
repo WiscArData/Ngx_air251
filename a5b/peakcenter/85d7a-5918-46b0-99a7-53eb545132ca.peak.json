@@ -1,0 +1,42 @@
+{
+    "Ax": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhfAoblYATpCF8XKuW8THUIXyvO5SoTXQhfQHLk7kZdCF9VFuUhvqEIX2m+5R71AQhffmLlVbOBCF+TBuWTUokIX6eq5Z2VXQhfvE7lgCaBCF/Q9uVAf0UIX+Wa5SIA3Qhf+j7lV5TxCGAO4uURVtkIYCOG5TfUDQhgOC7lHf3xCGBM0uTaQHkIYGF25FEqeQhgdhrjg+G1CGCKvuMzE20IYJ9m4sFgPQhgtArjcAzNCGDIruMWVKkIYN1S4wl2GQhg8fbjOfNFCGEGnuQbeOA==",
+        "resolution": null
+    },
+    "H4": {
+        "center_dac": 38.03810444889783,
+        "center_signal": 0.1640729330388768,
+        "high_dac": 38.0641124649299,
+        "high_resolving_power": 6851.589509378308,
+        "high_signal": 0.13361379,
+        "low_dac": 38.01209643286577,
+        "low_resolving_power": 1490.757120854568,
+        "low_signal": 0.03151256567054431,
+        "points": "QhfAobinnnRCF8XKuLXWs0IXyvO4o65xQhfQHLiSaJhCF9VFuEB75UIX2m+4pJ9OQhffmLiWe4dCF+TBuJ+kPEIX6eq4p+4VQhfvE7inNHNCF/Q9uG/fVkIX+Wa4dVadQhf+j7gLSzBCGAO4Oy69H0IYCOE8gsJOQhgOCz0peH1CGBM0PajfQEIYGF09/7ygQhgdhj4ZZGNCGCKvPiKJuUIYJ9k+JjrTQhgtAj4nfFtCGDIrPie94kIYN1Q+JypaQhg8fT4d1aRCGEGnPgjSDg==",
+        "resolution": 654.9172574188457
+    },
+    "L4": {
+        "center_dac": 38.04113450901808,
+        "center_signal": 0.0004233417999486067,
+        "high_dac": 38.0641124649299,
+        "high_resolving_power": 3966.499189639539,
+        "high_signal": 0.00029073600000000004,
+        "low_dac": 38.01815655310625,
+        "low_resolving_power": 1654.7633978717256,
+        "low_signal": 8.221434591992352e-05,
+        "points": "QhfAoTMJcF9CF8XKMolwX0IXyvMzTiiPQhfQHDKJcF9CF9VFMwlwX0IX2m8zCXBfQhffmDMJcF9CF+TBM04oj0IX6eozCXBfQhfvEzNOKI9CF/Q9M04oj0IX+WYzCXBfQhf+jzPOKI9CGAO4M6vMd0IYCOE20nQSQhgOCzgPRwVCGBM0OMEbE0IYGF05X4GOQhgdhjm2r+ZCGCKvOdD8Q0IYJ9k52X/1QhgtAjnasOZCGDIrOd3lPUIYN1Q51E6qQhg8fTm+sr9CGEGnOZht7Q==",
+        "resolution": 724.240236568922
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H4",
+    "reference_isotope": "Ar40"
+}
